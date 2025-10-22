@@ -1,0 +1,1 @@
+export const trpc = { admin: { login: { useMutation(){ return { mutateAsync: async (_:any)=>({success:true, admin:{name:'Admin'}}) } } } } } as any;

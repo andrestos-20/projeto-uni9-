@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Introdu\u00e7\u00e3o ao Projeto",
+    "summary": "Vis\u00e3o geral do curso e objetivos.",
+    "progress": 100,
+    "materials": [
+      {
+        "id": "m1",
+        "type": "video",
+        "title": "Apresenta\u00e7\u00e3o do Curso",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      },
+      {
+        "id": "m2",
+        "type": "link",
+        "title": "Plano de Ensino",
+        "url": "https://example.com/plano"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Fundamentos",
+    "summary": "Conceitos b\u00e1sicos e primeiros passos.",
+    "progress": 60,
+    "materials": [
+      {
+        "id": "m3",
+        "type": "pdf",
+        "title": "Apostila",
+        "url": "https://example.com/apostila.pdf"
+      },
+      {
+        "id": "m4",
+        "type": "video",
+        "title": "Aula 1",
+        "url": "https://www.youtube.com/embed/ysz5S6PUM-U"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+export function Progress({value}:{value:number}){return <div style={{background:'#0c1422',border:'1px solid #1a2333',borderRadius:8,height:10}}><div style={{width:`${value}%`,height:'100%',background:'var(--primary)',borderRadius:8}} /></div>}
